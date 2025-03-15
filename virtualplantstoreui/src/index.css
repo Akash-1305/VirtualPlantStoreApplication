@@ -1,0 +1,32 @@
+.loginbg {
+  background-image: url(./Images/login.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 91vh;
+}
+
+.regbg {
+  background-image: url(./Images/bg3.jpg);
+  min-height: 91vh;
+}
+
+.aboutbg {
+  background-image: url(./Images/bg3.jpg);
+  min-height: 91vh;
+}
+.contactbg {
+  background-image: url(./Images/bg4.jpg);
+  min-height: 91vh;
+  background-size: cover;
+}
+
+.errorbg {
+  background-image: url(./Images/error.jpg);
+  min-height: 91vh;
+  background-size: cover;
+}
+
+.image-hover-effect:hover {
+  transform: scale(1.15);
+  transition: transform 0.3s ease-in-out;
+}
