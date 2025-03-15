@@ -20,7 +20,6 @@ This is a full-stack e-commerce application designed for buying and selling plan
 - Search and filter functionality for easy navigation
 - Order management for tracking purchases and sales
 - Wishlist feature to save favorite plants
-- Simple payment gateway for processing transactions securely
 - User reviews and ratings for sellers and plants
 
 ---
