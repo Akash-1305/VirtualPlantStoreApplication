@@ -87,7 +87,6 @@ Ensure you have the following installed on your machine:
 - **PlantCreate**: Form for adding a new plant listing.
 - **PlantUpdate**: Form for editing existing plant details.
 - **OrderHistory**: Displays user orders.
-- **PageHeader**: Common header for navigation.
 
 ---
 
@@ -117,7 +116,7 @@ Contributions are welcome! Please fork the repository and create a pull request.
 
 ## Issues
 
-If you encounter any issues, feel free to open an issue in the GitHub repository and E-mail(akash20050513@gmail.com).
+If you encounter any issues, feel free to open an issue in the GitHub repository and contact: akash20050513@gmail.com.
 
 ---
 
